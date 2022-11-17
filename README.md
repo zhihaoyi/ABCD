@@ -3,7 +3,7 @@
 Update Note:
 ------------------------------------------------------
 11/15:
-1. started the coding part
+1. started up the coding part
 2. added some Preliminary visualization
 3. trained the Kmeans model with 0.21 acc
 
