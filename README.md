@@ -10,6 +10,6 @@ Update Note:
 for next update:
 1. train a model with a higher acc
 
-editor: Zhihao Yi
+edited by Zhihao Yi
 
 ------------------------------------------------------
