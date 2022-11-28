@@ -3,12 +3,10 @@
 Update Note:
 ------------------------------------------------------
 11/15:
-1. started up the coding part
-2. added some Preliminary visualization
-3. trained the Kmeans model with 0.21 acc
-
-for next update:
-1. train a model with a higher acc
+1. revised data cleaning.ipynb
+2. revised KNN - DNAtype.ipynb
+3. revised KNN - KNN - Kingdom.ipynb
+4. updated cleaned_codon_usage.csv
 
 edited by Zhihao Yi
 
