@@ -2,7 +2,7 @@
 
 Update Note:
 ------------------------------------------------------
-11/15:
+11/28:
 1. revised data cleaning.ipynb
 2. revised KNN - DNAtype.ipynb
 3. revised KNN - Kingdom.ipynb
